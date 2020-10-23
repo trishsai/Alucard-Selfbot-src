@@ -144,7 +144,7 @@ def startprint():
                                                                                                                                                                                             
                         
                         
-                       {Fore.CYAN}RulerBot {SELFBOT.__version__} | {Fore.GREEN}Logged in as: {Rulerbot.user.name}#{Rulerbot.user.discriminator} {Fore.CYAN}| ID: {Fore.GREEN}{Alucard.user.id}   
+                       {Fore.CYAN}Alucard {SELFBOT.__version__} | {Fore.GREEN}Logged in as: {Alucard.user.name}#{Alucard.user.discriminator} {Fore.CYAN}| ID: {Fore.GREEN}{Alucard.user.id}   
                        {Fore.CYAN}Privnote Sniper | {Fore.GREEN}{privnote}
                        {Fore.CYAN}Nitro Sniper | {Fore.GREEN}{nitro}
                        {Fore.CYAN}Giveaway Sniper | {Fore.GREEN}{giveaway}

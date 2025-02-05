@@ -1,4 +1,4 @@
-# THIS PROJECT HAS BEEN DISCONTINUED. ANY FURTHER ISSUES WON'T BE ANSWERED BY US!
+# THIS PROJECT HAS BEEN DISCONTINUED. Adjustments were last made on the file update day.
 
 # Setup
   - Since it's discontinuted and some good guy (trickstr) decided to make a video tutorial about it
@@ -8,7 +8,7 @@
 
 Everything you can see here has been made for educational purposes and proof of concepts. I do not promote the usage of my tools, I do not take responsability on the bad usage of this tool.
 
-Love you coats -Vexy
+Editted by - Trishanth & Discontinued Project Members.
 
 
 
